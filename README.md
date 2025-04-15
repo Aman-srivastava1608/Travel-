@@ -1,19 +1,66 @@
-# Tour-Project
-<b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
-[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/Yash-srivastav16/Tour-Project/issues/10) <br>
-[Enhancement: Separate Pages For Popular Packages ](https://github.com/Yash-srivastav16/Tour-Project/issues/9) <br><br>
-DEMO-> https://yash-srivastav16.github.io/Tour-Project/
-Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
+# 🌐 Tour-Project
 
-Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
+> **Calling All Open Source Contributors!**  
+> Help us enhance this project and shape its future. Try making some awesome changes!
 
-The HomePage of the Website is with<b> main.html</b> file.
+### 🔗 Live Demo
+[Click here to view the website](seasontravel.netlify.app)
 
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/home.PNG?raw=true)
+---
 
-<h1><b>Other Screenshots of the Pages are.</b></h1>
+## 📌 Project Overview
 
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true)
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/package1.PNG?raw=true)
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/contact.PNG?raw=true)
-![alt text](https://github.com/Yash-srivastav16/Tour-Project/blob/main/screenshot/database_contact.PNG?raw=true)
+This is a **Tour & Travel Website** built using **HTML, CSS, JavaScript**, and **PHP**.  
+The website allows users to explore popular travel packages, adventures, and contact the team.  
+Contact form submissions are stored in a backend database using PHP.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript  
+- 
+
+---
+
+## 🧭 Main Files
+
+- `main.html` → Home Page  
+- `adventure.html` → Adventure Packages  
+- `package1.html` → Popular Packages  
+- `contact.html` → Contact Form  
+- `
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+### 🧗 Adventure Page
+!\
+---
+
+## 🚀 Upcoming Enhancements
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork the repo
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes
+4. Commit: `git commit -m "Your message"`
+5. Push to your fork: `git push origin feature-name`
+6. Create a Pull Request 🎉
+
+---
+
+## 📫 Contact
+
+If you have any suggestions or queries, feel free to connect!
+
+---
+
+⭐ **Star** this repo if you like the project  
+📢 **Spread the word** by sharing!
+
