@@ -4,7 +4,7 @@
 > Help us enhance this project and shape its future. Try making some awesome changes!
 
 ### 🔗 Live Demo
-[Click here to view the website](seasontravel.netlify.app)
+[Click here to view the website](https://seasontravel.netlify.app/)
 
 ---
 
